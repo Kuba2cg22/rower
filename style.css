@@ -1,6 +1,6 @@
 body{
     background-image: url(https://cdn.pixabay.com/photo/2016/01/30/16/30/mtb-1169959_960_720.jpg);
-    background-size: 1400px;
+    background-size: 1600px;
     background-repeat: no-repeat;
     background-position: top;
     background-color: rgb(255, 255, 255);
@@ -64,7 +64,7 @@ input{
     font-size: 20px;
     position: relative;
     top:1cm;
-    left: 550px;
+    left: 800px;
     padding: 15px 10px;
     background-color: rgb(130, 149, 255);
     border-radius: 40px;
